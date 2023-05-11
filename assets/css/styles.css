@@ -1,0 +1,40 @@
+button{
+    width: 70px;
+    height: 70px;
+    border-radius: 3px;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.operacion{
+    background-color: skyblue;
+    border-color: skyblue;
+    color: white;
+}
+#resultado{
+    background-color: black;
+    border-color:black;
+    color: white;
+    font-size: 40px;
+    width: 100%;
+    height: 90px;
+    text-align: end;
+}
+table{
+    background-color:  rgb(206, 206, 206);
+    width: 21%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.numero, .dotClass, .igualClass{
+    border-color: white;
+}
+.clearClass{
+    background-color: rgb(235, 12, 12);
+    border-color: rgb(235, 12, 12);
+    color: white;
+}
+.igualClass{
+    height: 315px;
+}
